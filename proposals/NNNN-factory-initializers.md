@@ -1,7 +1,7 @@
 # Factory Initializers
 
 * Proposal: [SE-NNNN](NNNN-factory-initializers.md)
-* Authors: [Gor Gyolchanyan](https://github.com/technogen-gg) [Riley Testut](http://twitter.com/rileytestut)
+* Authors: [Gor Gyolchanyan](https://github.com/technogen-gg), [Riley Testut](http://twitter.com/rileytestut)
 * Review Manager: TBD
 * Status: **Awaiting review**
 
