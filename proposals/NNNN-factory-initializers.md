@@ -1,7 +1,7 @@
 # Factory Initializers
 
 * Proposal: [SE-NNNN](NNNN-factory-initializers.md)
-* Authors: [Gor Gyolchanyan](https://github.com/technogen-gg)
+* Authors: [Gor Gyolchanyan](https://github.com/technogen-gg) [Riley Testut](http://twitter.com/rileytestut)
 * Review Manager: TBD
 * Status: **Awaiting review**
 
@@ -9,7 +9,7 @@
 
 This proposal seeks to introduce factory initializers (`factory init`).
 
-Swift-evolution thread: [\[Proposal\] Uniform Initialization Syntax](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170605/037128.html)
+Swift-evolution thread: [\[Proposal\] Uniform Initialization Syntax](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20170605/037128.html), [[Proposal] Factory Initializers](https://lists.swift.org/pipermail/swift-evolution/Week-of-Mon-20151214/003192.html)
 
 ## Motivation
 
